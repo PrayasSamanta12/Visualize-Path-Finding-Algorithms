@@ -10,8 +10,9 @@ A *</br>
 
 ## How it works?
 
-***Note: Nodes are the small square boxes of the mesh(net like structure)***
-In the Mesh you will find Start Node(<img src="./assets/icon/source.svg">) and End Node(<img src="./assets/icon/target.svg">)<br/>
+***Note: Nodes are the small square boxes of the mesh(net like structure)***</br>
+In the Mesh you will find Start Node(<img height="10px" width="10px"
+ src="./assets/icon/source.svg">) and End Node(<img height="10px" width="10px" src="./assets/icon/target.svg">)<br/>
 ***Start Node indicates starting point of the path***</br>
 ***End Node indictaes end point of the path***</br>
 You can create obstracle/walls between start node and end node simply by clicking on nodes.Walls are shown in blue color<br/>
